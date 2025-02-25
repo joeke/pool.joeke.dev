@@ -1,7 +1,7 @@
 {
     "name": "Pool Score",
+    "short_name": "Pool Score",
     "start_url": "/",
-    "display": "minimal-ui",
-    "display_override": ["minimal-ui"],
+    "display": "standalone",
     "theme_color": "#343a40"
 }
